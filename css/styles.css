@@ -5,3 +5,7 @@ h1{
 .second-para{
     color: blue;
 }
+
+#bold{
+    font-weight: bold;
+}
